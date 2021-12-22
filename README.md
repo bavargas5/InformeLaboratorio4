@@ -126,6 +126,11 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **Tabla 4.1. Medición de voltaje aplicando superposición**
 
+| Voltaje Total (VA) Voltaje (VA) cuando V2=0 | Voltaje (VA) cuando V1=0|
+| ------------- | ------------- | ------------- | 
+| | | | |
+| | | | |
+
 **Tabla 4.2. Medición de corriente aplicando superposición**
 
 
