@@ -100,13 +100,19 @@ Para calcular la corriente total sumamos las corrientes parciales obtenidas.
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_1.JPG)
+
 - Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_2.JPG)
+
 - Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_3.JPG)
 
 **SIMULACIÓN EN TINKERCAD**
 
