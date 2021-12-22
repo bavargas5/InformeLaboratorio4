@@ -67,23 +67,6 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **Tabla 4.1. Medición de voltaje aplicando superposición**
 
-| heading |              heading 2              |
-|         |      sub head a      |  sub head b  |
-|---------|----------------------|--------------|
-| aaa     | this is still just   | ccc          |
-|         | a single row but I   |              |
-|         | talk too much        |              |
-|.........|......................|..............|
-| aaa     | bbb                  | ccc          |
-|.........|......................|..............|
-| this spans two rows and two    | ccc          |
-| columns                        |..............|
-|                                | ccc          |
-|.........|:....................:|..............|
-| aaa     |      centered        | ccc          |
-|.........|......................|..............|
-| aaa     | - item one           | ccc          |
-|         | - item two           |              |
 
 **Tabla 4.2. Medición de corriente aplicando superposición**
 
