@@ -20,13 +20,15 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 **MATERIALES**
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q1.png)
 
 **Circuito analizado**
 
-
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q2.png)
 
 **PROCEDIMIENTO**
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q3.png)
 
 **SIMULACÍON EN PROTEUS**
 
