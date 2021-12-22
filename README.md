@@ -37,7 +37,7 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 Obtener las resistencias equivalentes para simplificar el circuito:
 
-"La resistencia R4 no es tomada en cuenta debido a que por ella no circula corriente ni voltaje, ya que la electricidad toma el camino más fácil, es decir por el puente del que se eliminó la fuente de 12 V."
+"La resistencia R4 no es tomada en cuenta debido a que por ella no circula corriente ni voltaje, ya que la electricidad toma el camino más fácil, es decir por el puente del que se hizo cero la fuente de 12 V."
 
 Obtener la resistencia total y la intensidad total: 
 
