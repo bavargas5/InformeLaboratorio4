@@ -126,7 +126,8 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **Tabla 4.1. Medición de voltaje aplicando superposición**
 
-Voltaje Total (VA)
+|Voltaje Total (VA)|
+|----------------------|
 | Calculado | Medido |
 |------- |-------- |
 | 0.95 V | |
