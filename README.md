@@ -84,7 +84,7 @@ Para calcular el voltaje total sumar los voltajes parciales obtenidos.
 
 ![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w16.png)
 
-Este voltaje obtenido es negativo ya que se considera un sentido horario del flujo del voltaje por el circuito como referencia la fuente de voltaje de 20 V. Teniendo en cuenta el sentido del voltaje que indica en el grafico el VA tendrá sigo positivo.
+Este voltaje obtenido es negativo ya que se considera un sentido horario del flujo del voltaje por el circuito como referencia la fuente de voltaje de 20 V. Teniendo en cuenta el sentido del voltaje que indica en el grafico el VA tendrá signo positivo.
 
 ![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w17.png)
 
