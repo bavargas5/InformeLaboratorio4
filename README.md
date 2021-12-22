@@ -24,6 +24,8 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 **Circuito analizado**
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w2.png)
+
 **PROCEDIMIENTO**
 
 - Hacer la fuente de 12 V cero:
