@@ -28,71 +28,6 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 **PROCEDIMIENTO**
 
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w3.png)
-
-- Hacer la fuente de 12 V cero:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w4.png)
-
-Obtener las resistencias equivalentes para simplificar el circuito:
-
-"La resistencia R4 no es tomada en cuenta debido a que por ella no circula corriente ni voltaje, ya que la electricidad toma el camino más fácil, es decir por el puente del que se hizo cero la fuente de 12 V."
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w5.png)
-
-Obtener la resistencia total y la intensidad total: 
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w6.png)
-
-Para calcular el voltaje en la resistencia R3 calcular su intensidad en ese punto por medio del divisor de corriente.
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w7.png)
-
-El voltaje en R3 (VA1) según el sentido que indica el grafico tiene signo negativo ya que está en contra al flujo de los electrones. 
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w8.png)
-
-Hacer la fuente de 20 V cero:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w9.png)
-
-Obtener resistencias equivalentes para simplificar el circuito:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w10.png)
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w11.png)
-
-Calcular la resistencia total y la intensidad total:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w12.png)
-
-Mediante divisor de corriente calcular la corriente que pasa por cada una de las resistencias:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w13.png)
-
-Calcular el voltaje para R3:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w14.png)
-
-El voltaje VA2 según el sentido que indica el grafico es positivo ya que tiene el mismo sentido que el voltaje indicado, por lo tanto:
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w15.png)
-
-VOLTAJE
-
-Para calcular el voltaje total sumar los voltajes parciales obtenidos.
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w16.png)
-
-Este voltaje obtenido es negativo ya que se considera un sentido horario del flujo del voltaje por el circuito como referencia la fuente de voltaje de 20 V. Teniendo en cuenta el sentido del voltaje que indica en el grafico el VA tendrá signo positivo.
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w17.png)
-
-CORRIENTE
-
-Para calcular la corriente total sumamos las corrientes parciales obtenidas.
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w18.png)
 
 **SIMULACÍON EN PROTEUS**
 
@@ -120,24 +55,28 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMAGENESBN/1.PNG)
-
 - Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMAGENESBN/2.PNG)
 
 - Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMAGENESBN/3.PNG)
-
 **RECOPILACIÓN DE DATOS**
 
 **Tabla 4.1. Medición de voltaje aplicando superposición**
 
+|              | Header 1        | Header 2                       || Header 3                       ||
+|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
+|==============|-----------------|----------------|----------------|----------------|----------------|
+| Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
+| Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
+| Row Header 3 |       ^                                         |||       ^        | Cell           |
+| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
+:              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
+:              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
+|--------------|-----------------|----------------|----------------|----------------|----------------|
 
 **Tabla 4.2. Medición de corriente aplicando superposición**
 
