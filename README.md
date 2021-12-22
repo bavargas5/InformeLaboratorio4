@@ -24,6 +24,36 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 **PROCEDIMIENTO**
 
+- Hacer la fuente de 12 V cero:
+
+Obtener las resistencias equivalentes para simplificar el circuito:
+
+"La resistencia R4 no es tomada en cuenta debido a que por ella no circula corriente ni voltaje, ya que la electricidad toma el camino más fácil, es decir por el puente del que se eliminó la fuente de 12 V."
+
+Obtener la resistencia total y la intensidad total: 
+
+Para calcular el voltaje en la resistencia R3 calcular su intensidad en ese punto por medio del divisor de corriente.
+
+El voltaje en R3 (VA1) según el sentido que indica el grafico tiene signo negativo ya que está en contra al flujo de los electrones.  
+
+Obtener resistencias equivalentes para simplificar el circuito:
+
+Calcular la resistencia total y la intensidad total:
+
+Mediante divisor de corriente calcular la corriente que pasa por cada una de las resistencias:
+
+Calcular el voltaje para R3:
+
+El voltaje VA2 según el sentido que indica el grafico es positivo ya que tiene el mismo sentido que el voltaje indicado, por lo tanto:
+
+VOLTAJE
+Para calcular el voltaje total sumar los voltajes parciales obtenidos.
+
+Este voltaje obtenido es negativo ya que se considera un sentido horario del flujo del voltaje por el circuito como referencia la fuente de voltaje de 20 V. Teniendo en cuenta el sentido del voltaje que indica en el grafico el VA tendrá sigo positivo.
+
+CORRIENTE
+Para calcular la corriente total sumamos las corrientes parciales obtenidas.
+
 **SIMULACÍON EN PROTEUS**
 
 - Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
