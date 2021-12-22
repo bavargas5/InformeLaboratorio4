@@ -32,40 +32,67 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 - Hacer la fuente de 12 V cero:
 
-
 ![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w4.png)
 
 Obtener las resistencias equivalentes para simplificar el circuito:
 
 "La resistencia R4 no es tomada en cuenta debido a que por ella no circula corriente ni voltaje, ya que la electricidad toma el camino más fácil, es decir por el puente del que se hizo cero la fuente de 12 V."
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w5.png)
+
 Obtener la resistencia total y la intensidad total: 
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w6.png)
 
 Para calcular el voltaje en la resistencia R3 calcular su intensidad en ese punto por medio del divisor de corriente.
 
-El voltaje en R3 (VA1) según el sentido que indica el grafico tiene signo negativo ya que está en contra al flujo de los electrones.  
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w7.png)
+
+El voltaje en R3 (VA1) según el sentido que indica el grafico tiene signo negativo ya que está en contra al flujo de los electrones. 
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w8.png)
 
 Hacer la fuente de 20 V cero:
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w9.png)
+
 Obtener resistencias equivalentes para simplificar el circuito:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w10.png)
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w11.png)
 
 Calcular la resistencia total y la intensidad total:
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w12.png)
+
 Mediante divisor de corriente calcular la corriente que pasa por cada una de las resistencias:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w13.png)
 
 Calcular el voltaje para R3:
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w14.png)
+
 El voltaje VA2 según el sentido que indica el grafico es positivo ya que tiene el mismo sentido que el voltaje indicado, por lo tanto:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w15.png)
 
 VOLTAJE
 
 Para calcular el voltaje total sumar los voltajes parciales obtenidos.
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w16.png)
+
 Este voltaje obtenido es negativo ya que se considera un sentido horario del flujo del voltaje por el circuito como referencia la fuente de voltaje de 20 V. Teniendo en cuenta el sentido del voltaje que indica en el grafico el VA tendrá sigo positivo.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w17.png)
 
 CORRIENTE
 
 Para calcular la corriente total sumamos las corrientes parciales obtenidas.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMG%20BV/w18.png)
 
 **SIMULACÍON EN PROTEUS**
 
