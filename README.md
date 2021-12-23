@@ -140,6 +140,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **Tabla 4.2. Medición de corriente aplicando superposición**
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMAGENESBN/5.PNG)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
