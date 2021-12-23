@@ -184,3 +184,7 @@ https://youtu.be/matG9HtUXvM
 
 
 # 7. BIBLIOGRAFÍA
+
+- Teorema de la superposicion. (2020, 2 junio). TINA Design Suite. Recuperado 22 de diciembre de 2021, de https://www.tina.com/es/superposition-theorem/
+
+- Teorema de superposición. (s. f.). innovacionumh. Recuperado 22 de diciembre de 2021, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
