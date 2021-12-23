@@ -102,6 +102,13 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 |Voltaje Total (VA), cuando V1 = 0|-6.52|-6.53|0.15 %|
 
 
+| |RESULTADOS ANALÍTICOS|RESULTADOS EXPERIMENTALES|% ERROR|
+|-------------|-------------|-------------|-------------|
+|Corriente Total (Ix)| | | |
+|Corriente Total (Ix) cuando V2 = 0| | | |
+|Corriente Total (Ix), cuando V1 = 0| | | |
+
+
 # 5. VIDEO
 
 # 6. CONCLUSIONES
