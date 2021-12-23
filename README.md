@@ -88,6 +88,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **Tabla 4.1. Medición de voltaje aplicando superposición**
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_4.JPG)
 
 **Tabla 4.2. Medición de corriente aplicando superposición**
 
