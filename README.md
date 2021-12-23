@@ -168,7 +168,11 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 ![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_EE.JPG)
 
+Los porcentajes de error son muy ajos ya que los simuladores trabajan con sistemas ideales
+
 # 5. VIDEO
+
+https://youtu.be/matG9HtUXvM
 
 # 6. CONCLUSIONES
 
