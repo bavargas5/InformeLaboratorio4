@@ -16,6 +16,8 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 # 2. MARCO TEÓRICO
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/T%20Superposici%C3%B3n%20DF.png)
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 **MATERIALES**
