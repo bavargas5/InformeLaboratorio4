@@ -145,12 +145,17 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 |Voltaje Total (VA)|0.95|0.95|0 %|
 |Voltaje Total (VA), cuando V2 = 0|7.47|7.48|0.13 %|
 |Voltaje Total (VA), cuando V1 = 0|-6.52|-6.53|0.15 %|
-
+|Corriente Total (Ix)| | | |
+|Corriente Total (Ix), cuando V2 = 0| | | |
+|Corriente Total (Ix), cuando V1 = 0| | | |
 
 | |RESULTADOS ANALÍTICOS|RESULTADOS EXPERIMENTALES|% ERROR|
 |-------------|-------------|-------------|-------------|
+|Voltaje Total (VA)|0.95|0.95|0 %|
+|Voltaje Total (VA), cuando V2 = 0|7.47|7.48|0.13 %|
+|Voltaje Total (VA), cuando V1 = 0|-6.52|-6.53|0.15 %|
 |Corriente Total (Ix)| | | |
-|Corriente Total (Ix) cuando V2 = 0| | | |
+|Corriente Total (Ix), cuando V2 = 0| | | |
 |Corriente Total (Ix), cuando V1 = 0| | | |
 
 
