@@ -40,7 +40,55 @@ Obtener las resistencias equivalentes para simplificar el circuito:
 
 ![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q5.png)
 
+Obtener la resistencia total y la intensidad total: 
 
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q6.png)
+
+Para calcular el voltaje en la resistencia R3 calcular su intensidad en ese punto por medio del divisor de corriente.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q7.png)
+
+El voltaje en R3 (VA1) según el sentido que indica el grafico tiene signo positivo ya que coincide con la polaridad que indica el grafico.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q8.png)
+
+Hacer la fuente de 20 V cero:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q9.png)
+
+Obtener resistencias equivalentes para simplificar el circuito:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q10.png)
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q11.png)
+
+Calcular la resistencia total y la intensidad total:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q12.png)
+
+Mediante divisor de corriente calcular la corriente que pasa por cada una de las resistencias:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q13.png)
+
+Calcular el voltaje para R3:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q14.png)
+
+El voltaje VA2 según la polaridad que indica el grafico tiene signo negativo ya que no tiene el mismo sentido que el voltaje indicado, por lo tanto:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q15.png)
+
+VOLTAJE
+
+Para calcular el voltaje total sumar los voltajes parciales obtenidos.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q16.png)
+
+CORRIENTE
+
+Para calcular la corriente total sumamos las corrientes parciales obtenidas.
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q17.png)
 
 **SIMULACÍON EN PROTEUS**
 
@@ -54,7 +102,7 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_4.JPG)
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/img/Lab4_2.JPG)
 
 - Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
