@@ -30,6 +30,18 @@ Utilizar el teorema de superposición para determinar el voltaje y la corriente 
 
 ![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q3.png)
 
+Hacer la fuente de 12 V cero:
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q4.png)
+
+Obtener las resistencias equivalentes para simplificar el circuito:
+
+"La resistencia R4 no es tomada en cuenta debido a que por ella no circula corriente ni voltaje, ya que la electricidad toma el camino más fácil, es decir por el puente del que se eliminó la fuente de 12 V"
+
+![](https://github.com/bavargas5/InformeLaboratorio4/blob/main/IMGBV/q5.png)
+
+
+
 **SIMULACÍON EN PROTEUS**
 
 - Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
